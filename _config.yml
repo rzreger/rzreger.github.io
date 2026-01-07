@@ -25,7 +25,7 @@ repository               : "rzreger/rzreger.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/ryne_headshot_0107.jpg"
+  avatar           : "profile.png"
   name             : "Ryne Zen-Zhi Reger"
   pronouns         : "he/him"  
   bio              : "Dedicated to applying math to environmental challenges to make the world a bit more harmonious!"
