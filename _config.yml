@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -23,14 +24,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ryne_headshot_0107.jpg"
   name             : "Ryne Zen-Zhi Reger"
   pronouns         : "he/him"  
   bio              : "Dedicated to applying math to environmental challenges to make the world a bit more harmonious!"
-  location         : "Boston now, also consider Minnesota and Malaysia home"
-  employer         : "Massachusetts Institute of Technology"
+  location	   : "Boston"
+  employer         : "MIT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rreger@mit.edu" 
 
   # Academic websites
   academia         : # URL
