@@ -27,7 +27,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ryne Zen-Zhi Reger"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Dedicated to making the world a bit more harmonious by applying math to environmental challenges!"
   location	   : "Boston"
   employer         : "MIT"
