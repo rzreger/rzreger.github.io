@@ -12,34 +12,31 @@ redirect_from:
 Education
 ======
 * Ph.D in Operations Research, Massachusetts Institute of Technology, 2030 (expected)
-* M.S. in Computer Science AI, Stanford University, 2025
+* M.S. in Computer Science, Stanford University, 2025
 * B.S. in Economics, Stanford University, 2024
+* UMTYMP, University of Minnesota, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Stanford Doerr School for Sustainability
+  * 2023-2025
+  * Developed a geospatial-informed decision-support tool to increase tribal renewable energy
+  * Supervisor: Professor Kimberly Yazzie and Professor Chris Field
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* TONIBUNG
+  * Summer 2024
+  * Conducted socio-economic impact assessment of renewable microgrids in seven kampungs in Ulu Papar, Sabah, Malaysia
+  * Supervisor: Adrian Lasimbang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Lakota Funds
+  * Summer 2022
+  * Co-managed Construction Internship Program and set up South Dakota state-wide event to support appraisers working on Tribal lands
+  * Supervisor: Tawney Brunsch
+
+* Santa Clara County Office of Reentry Services
+  * Spring 2021
+  * Created town hall to support social entrepreneurship and led research efforts related to family reunification and diversion programs
+  * Supervisor: Javier Aguirre
 
 Publications
 ======
@@ -59,6 +56,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Rhodes Finalist
+* Phi Beta Kappa
+* Stanford Award for Excellence
+* Stanford Graduate with Distinction
+* National Merit Scholar
